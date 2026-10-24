@@ -1,0 +1,6 @@
+{
+  "name": "Repair Assistant",
+  "description": "Appliance repair diagnostics, estimated costs, DIY vs technician guidance, and safety precautions for home appliances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
